@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "eslint:recommended"
+    ],
+    "globals": {
+        "JSX": true,
+        "React": true,
+        "window": true,
+        "module": true,
+        "require": true
+    }
+}
